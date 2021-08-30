@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="514ed20d-4807-45a2-9393-939436035e1d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rgXYtWboc06DRPnLKcYmYLV7Qm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in TestModelDescentModule.py">
+    <configuration name="AirResistanceModule" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="KerbalSpaceProgram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AirResistanceModule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python3" type="PythonConfigurationType" factoryName="Python">
+      <module name="KerbalSpaceProgram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="KerbalSpaceProgram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for TestModelDescentModule.MyTestCase.test_determine_burn_height" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="KerbalSpaceProgram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestModelDescentModule.MyTestCase.test_determine_burn_height&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for TestModelDescentModule.MyTestCase.test_determine_points_of_interest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="KerbalSpaceProgram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestModelDescentModule.MyTestCase.test_determine_points_of_interest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for TestModelDescentModule.MyTestCase.test_free_fall_model_returns_expected_values" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="KerbalSpaceProgram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestModelDescentModule.MyTestCase.test_free_fall_model_returns_expected_values&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in TestModelDescentModule.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="KerbalSpaceProgram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestModelDescentModule.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Python3" />
+      <item itemvalue="Python.AirResistanceModule" />
+      <item itemvalue="Python tests.Unittests for TestModelDescentModule.MyTestCase.test_free_fall_model_returns_expected_values" />
+      <item itemvalue="Python tests.Unittests in TestModelDescentModule.py" />
+      <item itemvalue="Python tests.Unittests for TestModelDescentModule.MyTestCase.test_determine_burn_height" />
+      <item itemvalue="Python tests.Unittests for TestModelDescentModule.MyTestCase.test_determine_points_of_interest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in TestModelDescentModule.py" />
+        <item itemvalue="Python tests.Unittests for TestModelDescentModule.MyTestCase.test_determine_points_of_interest" />
+        <item itemvalue="Python tests.Unittests for TestModelDescentModule.MyTestCase.test_determine_burn_height" />
+        <item itemvalue="Python.AirResistanceModule" />
+        <item itemvalue="Python tests.Unittests for TestModelDescentModule.MyTestCase.test_free_fall_model_returns_expected_values" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="514ed20d-4807-45a2-9393-939436035e1d" name="Default Changelist" comment="" />
+      <created>1619398757209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619398757209</updated>
+      <workItem from="1619398912042" duration="6686000" />
+      <workItem from="1619457914276" duration="1481000" />
+      <workItem from="1619480958817" duration="9825000" />
+      <workItem from="1619645070577" duration="1346000" />
+      <workItem from="1619913649454" duration="517000" />
+      <workItem from="1619963100312" duration="155000" />
+      <workItem from="1619965705946" duration="4987000" />
+      <workItem from="1620137066769" duration="4081000" />
+      <workItem from="1620173774693" duration="491000" />
+      <workItem from="1620174271960" duration="13282000" />
+      <workItem from="1620191175103" duration="2068000" />
+      <workItem from="1620249874117" duration="1230000" />
+      <workItem from="1620314494990" duration="8205000" />
+      <workItem from="1620955792442" duration="5230000" />
+      <workItem from="1621035813047" duration="17088000" />
+      <workItem from="1626630108202" duration="17533000" />
+      <workItem from="1626804800737" duration="12084000" />
+      <workItem from="1627007330229" duration="5002000" />
+      <workItem from="1627058908588" duration="18379000" />
+      <workItem from="1627236967457" duration="32479000" />
+      <workItem from="1628360890581" duration="521000" />
+      <workItem from="1628365104909" duration="13553000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="952" y="341" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620186314435">
+      <screen x="0" y="23" width="3200" height="1310" />
+    </state>
+    <state x="952" y="341" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.3200.1310/3200.-234.1080.1897/-1629.507.1629.1027@0.23.3200.1310" timestamp="1620186314435" />
+    <state x="584" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1628372546564">
+      <screen x="0" y="23" width="3200" height="1310" />
+    </state>
+    <state x="584" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.3200.1310/-1649.327.1649.1027@0.23.3200.1310" timestamp="1628372546564" />
+    <state width="1463" height="249" key="GridCell.Tab.0.bottom" timestamp="1628370682199">
+      <screen x="0" y="23" width="3200" height="1310" />
+    </state>
+    <state width="1463" height="249" key="GridCell.Tab.0.bottom/0.23.3200.1310/-1649.327.1649.1027@0.23.3200.1310" timestamp="1628370682199" />
+    <state width="1482" height="567" key="GridCell.Tab.0.bottom/0.23.3200.1310/3200.-234.1080.1897/-1627.507.1627.1027@0.23.3200.1310" timestamp="1620193270586" />
+    <state width="1360" height="567" key="GridCell.Tab.0.bottom/0.23.3200.1310/3200.-234.1080.1897/-1629.507.1629.1027@0.23.3200.1310" timestamp="1620193029358" />
+    <state width="1958" height="375" key="GridCell.Tab.0.bottom/0.23.3200.1310/3200.-234.1080.1897/-1649.507.1649.1027@0.23.3200.1310" timestamp="1626657568374" />
+    <state width="1463" height="346" key="GridCell.Tab.0.bottom/31.23.1649.1027@31.23.1649.1027" timestamp="1627679270708" />
+    <state width="2290" height="375" key="GridCell.Tab.0.bottom/31.23.3169.1310/4880.23.1920.1057/3200.23.1680.1027@31.23.3169.1310" timestamp="1626723192241" />
+    <state width="1482" height="201" key="GridCell.Tab.0.bottom/3200.-234.1080.1897/-1620.507.1620.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1620314712869" />
+    <state width="1463" height="280" key="GridCell.Tab.0.bottom/3200.-234.1080.1897/-1625.507.1625.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1620358614425" />
+    <state width="2082" height="375" key="GridCell.Tab.0.bottom/3200.-234.1080.1897/-1627.507.1627.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1621135703260" />
+    <state width="1709" height="344" key="GridCell.Tab.0.bottom/3200.-234.1080.1897/-1629.507.1629.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1620992899036" />
+    <state width="1463" height="249" key="GridCell.Tab.0.center" timestamp="1628370682198">
+      <screen x="0" y="23" width="3200" height="1310" />
+    </state>
+    <state width="1463" height="249" key="GridCell.Tab.0.center/0.23.3200.1310/-1649.327.1649.1027@0.23.3200.1310" timestamp="1628370682198" />
+    <state width="1482" height="567" key="GridCell.Tab.0.center/0.23.3200.1310/3200.-234.1080.1897/-1627.507.1627.1027@0.23.3200.1310" timestamp="1620193270585" />
+    <state width="1360" height="567" key="GridCell.Tab.0.center/0.23.3200.1310/3200.-234.1080.1897/-1629.507.1629.1027@0.23.3200.1310" timestamp="1620193029357" />
+    <state width="1958" height="375" key="GridCell.Tab.0.center/0.23.3200.1310/3200.-234.1080.1897/-1649.507.1649.1027@0.23.3200.1310" timestamp="1626657568373" />
+    <state width="1463" height="346" key="GridCell.Tab.0.center/31.23.1649.1027@31.23.1649.1027" timestamp="1627679270707" />
+    <state width="2290" height="375" key="GridCell.Tab.0.center/31.23.3169.1310/4880.23.1920.1057/3200.23.1680.1027@31.23.3169.1310" timestamp="1626723192240" />
+    <state width="1482" height="201" key="GridCell.Tab.0.center/3200.-234.1080.1897/-1620.507.1620.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1620314712867" />
+    <state width="1463" height="280" key="GridCell.Tab.0.center/3200.-234.1080.1897/-1625.507.1625.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1620358614423" />
+    <state width="2082" height="375" key="GridCell.Tab.0.center/3200.-234.1080.1897/-1627.507.1627.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1621135703260" />
+    <state width="1709" height="344" key="GridCell.Tab.0.center/3200.-234.1080.1897/-1629.507.1629.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1620992899035" />
+    <state width="1463" height="249" key="GridCell.Tab.0.left" timestamp="1628370682198">
+      <screen x="0" y="23" width="3200" height="1310" />
+    </state>
+    <state width="1463" height="249" key="GridCell.Tab.0.left/0.23.3200.1310/-1649.327.1649.1027@0.23.3200.1310" timestamp="1628370682198" />
+    <state width="1482" height="567" key="GridCell.Tab.0.left/0.23.3200.1310/3200.-234.1080.1897/-1627.507.1627.1027@0.23.3200.1310" timestamp="1620193270585" />
+    <state width="1360" height="567" key="GridCell.Tab.0.left/0.23.3200.1310/3200.-234.1080.1897/-1629.507.1629.1027@0.23.3200.1310" timestamp="1620193029356" />
+    <state width="1958" height="375" key="GridCell.Tab.0.left/0.23.3200.1310/3200.-234.1080.1897/-1649.507.1649.1027@0.23.3200.1310" timestamp="1626657568372" />
+    <state width="1463" height="346" key="GridCell.Tab.0.left/31.23.1649.1027@31.23.1649.1027" timestamp="1627679270707" />
+    <state width="2290" height="375" key="GridCell.Tab.0.left/31.23.3169.1310/4880.23.1920.1057/3200.23.1680.1027@31.23.3169.1310" timestamp="1626723192239" />
+    <state width="1482" height="201" key="GridCell.Tab.0.left/3200.-234.1080.1897/-1620.507.1620.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1620314712867" />
+    <state width="1463" height="280" key="GridCell.Tab.0.left/3200.-234.1080.1897/-1625.507.1625.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1620358614422" />
+    <state width="2082" height="375" key="GridCell.Tab.0.left/3200.-234.1080.1897/-1627.507.1627.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1621135703259" />
+    <state width="1709" height="344" key="GridCell.Tab.0.left/3200.-234.1080.1897/-1629.507.1629.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1620992899035" />
+    <state width="1463" height="249" key="GridCell.Tab.0.right" timestamp="1628370682199">
+      <screen x="0" y="23" width="3200" height="1310" />
+    </state>
+    <state width="1463" height="249" key="GridCell.Tab.0.right/0.23.3200.1310/-1649.327.1649.1027@0.23.3200.1310" timestamp="1628370682199" />
+    <state width="1482" height="567" key="GridCell.Tab.0.right/0.23.3200.1310/3200.-234.1080.1897/-1627.507.1627.1027@0.23.3200.1310" timestamp="1620193270586" />
+    <state width="1360" height="567" key="GridCell.Tab.0.right/0.23.3200.1310/3200.-234.1080.1897/-1629.507.1629.1027@0.23.3200.1310" timestamp="1620193029357" />
+    <state width="1958" height="375" key="GridCell.Tab.0.right/0.23.3200.1310/3200.-234.1080.1897/-1649.507.1649.1027@0.23.3200.1310" timestamp="1626657568374" />
+    <state width="1463" height="346" key="GridCell.Tab.0.right/31.23.1649.1027@31.23.1649.1027" timestamp="1627679270708" />
+    <state width="2290" height="375" key="GridCell.Tab.0.right/31.23.3169.1310/4880.23.1920.1057/3200.23.1680.1027@31.23.3169.1310" timestamp="1626723192241" />
+    <state width="1482" height="201" key="GridCell.Tab.0.right/3200.-234.1080.1897/-1620.507.1620.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1620314712868" />
+    <state width="1463" height="280" key="GridCell.Tab.0.right/3200.-234.1080.1897/-1625.507.1625.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1620358614424" />
+    <state width="2082" height="375" key="GridCell.Tab.0.right/3200.-234.1080.1897/-1627.507.1627.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1621135703260" />
+    <state width="1709" height="344" key="GridCell.Tab.0.right/3200.-234.1080.1897/-1629.507.1629.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1620992899036" />
+    <state x="878" y="193" key="SettingsEditor" timestamp="1621137271886">
+      <screen x="0" y="23" width="3200" height="1310" />
+    </state>
+    <state x="878" y="193" key="SettingsEditor/0.23.3200.1310/3200.-234.1080.1897/-1629.507.1629.1027@0.23.3200.1310" timestamp="1620191162583" />
+    <state x="878" y="193" key="SettingsEditor/3200.-234.1080.1897/-1625.507.1625.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1621137271886" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1627760846343">
+      <screen x="0" y="23" width="3200" height="1310" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.3200.1310/-1649.327.1649.1027@0.23.3200.1310" timestamp="1627760846343" />
+    <state x="1248" y="401" key="com.intellij.ide.util.TipDialog" timestamp="1628365105727">
+      <screen x="0" y="23" width="3200" height="1310" />
+    </state>
+    <state x="1248" y="401" key="com.intellij.ide.util.TipDialog/0.23.3200.1310/-1649.327.1649.1027@0.23.3200.1310" timestamp="1628365105727" />
+    <state x="1388" y="400" key="com.intellij.ide.util.TipDialog/0.23.3200.1310/3200.-234.1080.1897/-1620.507.1620.1027@0.23.3200.1310" timestamp="1619965711792" />
+    <state x="1388" y="400" key="com.intellij.ide.util.TipDialog/0.23.3200.1310/3200.-234.1080.1897/-1627.507.1627.1027@0.23.3200.1310" timestamp="1619913649480" />
+    <state x="1247" y="400" key="com.intellij.ide.util.TipDialog/0.23.3200.1310/3200.-234.1080.1897/-1629.507.1629.1027@0.23.3200.1310" timestamp="1620191184250" />
+    <state x="1388" y="400" key="com.intellij.ide.util.TipDialog/0.23.3200.1310/3200.-234.1080.1897/-1635.507.1635.1027@0.23.3200.1310" timestamp="1620137068393" />
+    <state x="3621" y="312" key="com.intellij.ide.util.TipDialog/0.23.3200.1310/3200.-234.1080.1897/-1638.507.1638.1027@3200.-234.1080.1897" timestamp="1620173781550" />
+    <state x="1247" y="400" key="com.intellij.ide.util.TipDialog/0.23.3200.1310/3200.-234.1080.1897/-1649.507.1649.1027@0.23.3200.1310" timestamp="1627007338632" />
+    <state x="674" y="319" key="com.intellij.ide.util.TipDialog/31.23.1649.1027@31.23.1649.1027" timestamp="1627058908556" />
+    <state x="1247" y="400" key="com.intellij.ide.util.TipDialog/3200.-234.1080.1897/-1620.507.1620.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1620314495426" />
+    <state x="1247" y="400" key="com.intellij.ide.util.TipDialog/3200.-234.1080.1897/-1627.507.1627.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1620955792680" />
+    <state x="1247" y="400" key="com.intellij.ide.util.TipDialog/3200.-234.1080.1897/-1640.507.1640.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1621035813245" />
+    <state x="922" y="321" width="1986" height="678" key="search.everywhere.popup" timestamp="1627737889791">
+      <screen x="0" y="23" width="3200" height="1310" />
+    </state>
+    <state x="922" y="321" width="1986" height="678" key="search.everywhere.popup/0.23.3200.1310/-1649.327.1649.1027@0.23.3200.1310" timestamp="1627737889791" />
+    <state x="922" y="321" width="670" height="676" key="search.everywhere.popup/0.23.3200.1310/3200.-234.1080.1897/-1629.507.1629.1027@0.23.3200.1310" timestamp="1620186780750" />
+    <state x="922" y="321" width="670" height="676" key="search.everywhere.popup/0.23.3200.1310/3200.-234.1080.1897/-1649.507.1649.1027@0.23.3200.1310" timestamp="1627007650422" />
+    <state x="3511" y="198" width="670" height="979" key="search.everywhere.popup/0.23.3200.1310/3200.-234.1080.1897/-1649.507.1649.1027@3200.-234.1080.1897" timestamp="1627009275876" />
+    <state x="506" y="257" width="1023" height="531" key="search.everywhere.popup/31.23.1649.1027@31.23.1649.1027" timestamp="1627060982008" />
+    <state x="922" y="321" width="670" height="676" key="search.everywhere.popup/3200.-234.1080.1897/-1627.507.1627.1027/0.23.3200.1310@0.23.3200.1310" timestamp="1621113800417" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/KerbalSpaceProgram$Unittests_for_TestModelDescentModule_MyTestCase_test_determine_points_of_interest.coverage" NAME="Unittests for TestModelDescentModule.MyTestCase.test_determine_points_of_interest Coverage Results" MODIFIED="1627745388368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KerbalSpaceProgram$Python3.coverage" NAME="Python3 Coverage Results" MODIFIED="1620186369303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/KerbalSpaceProgram$Unittests_in_TestAirResistanceModule_py.coverage" NAME="Unittests in TestAirResistanceModule.py Coverage Results" MODIFIED="1627065853425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KerbalSpaceProgram$Unittests_for_TestModelDescentModule_MyTestCase_test_determine_burn_height.coverage" NAME="Unittests for TestModelDescentModule.MyTestCase.test_determine_burn_height Coverage Results" MODIFIED="1627741127873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KerbalSpaceProgram$Unittests_for_TestAirResistanceModule_TestAirResistanceModule.coverage" NAME="Unittests for TestAirResistanceModule.TestAirResistanceModule Coverage Results" MODIFIED="1627065749603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KerbalSpaceProgram$Unittests_for_TestModelDescentModule_MyTestCase_test_free_fall_model_returns_expected_values.coverage" NAME="Unittests for TestModelDescentModule.MyTestCase.test_free_fall_model_returns_expected_values Coverage Results" MODIFIED="1627673132933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KerbalSpaceProgram$Simulation.coverage" NAME="Simulation Coverage Results" MODIFIED="1621134934140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KerbalSpaceProgram$Unittests_in_TestLandingProtocol_py.coverage" NAME="Unittests in TestLandingProtocol.py Coverage Results" MODIFIED="1626657568361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KerbalSpaceProgram$Unittests_in_TestModelDescentModule_py.coverage" NAME="Unittests in TestModelDescentModule.py Coverage Results" MODIFIED="1628370673590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
